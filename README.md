@@ -1,4 +1,4 @@
 # popcat
-popcat automate click using python selenium
+popcat automate click using JS in chrome console
 
-This project is just automate click on popcat website using python selenium
+This project is just automate click on popcat website.
